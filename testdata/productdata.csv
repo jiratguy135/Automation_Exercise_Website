@@ -1,0 +1,5 @@
+ProductId,ProductName,Category,Availability,Condition,Price,GenderCategory,SubCategory,SubCategoryNo,Brand,Comment
+,,,,,,,,,,
+1,Blue Top,Women > Tops,In Stock,New,500,Women,Tops,2,Polo,TestComment
+2,Men Tshirt,Men > Tshirts,In Stock,New,400,Men,Tshirts,3,H&M,TestComment
+3,Sleeveless Dress,Women > Dress,In Stock,New,1000,Women,DRESS,1,Madame,TestComment

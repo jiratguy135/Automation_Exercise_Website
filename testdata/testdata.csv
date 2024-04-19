@@ -1,0 +1,4 @@
+﻿Status,UserName,Mail,Password,MR/MRS,Day,Month,Year,FirstName,LastName,Company,Address1,Address2,Country,State,City,Zipcode,Mobile
+P,AutomationTest01,AutomationTest01@mail.com,123456,Mr,27,2,1990,FirstNameTest,LastNameTest,CompanyTest,Testadd1,Testadd2,Singapore,TestState,TestCity,10001,+6609901129
+C,AutomationTest99,AutomationTest99@mail.com,123456,Mr,27,2,1990,FirstNameTest,LastNameTest,CompanyTest,Testadd1,Testadd2,Canada,TestState,TestCity,TestZipcode,+6699999999
+N,TestIncorrect,TestIncorrect@mail.com,1234561,Mrs,27,2,1990,FirstNameTest,LastNameTest,CompanyTest,Testadd1,Testadd2,Canada,TestState,TestCity,TestZipcode,+6699999999
